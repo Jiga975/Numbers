@@ -1,1 +1,1 @@
-A simple responsive full page landing page with html and css.
+A simple responsive full page landing page with html and css
