@@ -1,0 +1,1 @@
+A simple full page landing page with html and css.
